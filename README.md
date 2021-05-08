@@ -1,3 +1,6 @@
 # belajarprekuliah
-belajar sebelum kuliah
-bismillah pinter
+belajar sebelum kuliah 
+
+# my first language
+python
+
