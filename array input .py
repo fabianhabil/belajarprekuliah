@@ -9,7 +9,6 @@ while ((ketemu != True) or (i < x)):
     if array[i] == nyari:
         ketemu = True
         print("sama di elemen ke",i+1)
-    print(ketemu)
     i = i + 1
 # for i in range(0, x):
 #     if array[i] == nyari:
