@@ -1,5 +1,6 @@
-x = int(input("berapa? "))
-if x > 5:
-    print("x lebih besar dari 5")
+print('Palindrome checker! versi gabut buat git')
+angka = input("angka? ")
+if (angka[::] == angka[::-1]):
+    print("palindrome!")
 else:
-    print("x lebih kecil dari 5")
+    print("bukan palindrome")
